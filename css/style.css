@@ -1,0 +1,20 @@
+.header {
+  background-color: #f5f5f5; }
+  .header__text-container {
+    overflow: hidden; }
+  .header__text--main {
+    font-size: 2rem; }
+  .header__text--sub {
+    font-size: 1.3rem; }
+
+.card__btn--primary {
+  background-color: #ff791a; }
+.card__btn--secondary {
+  background-color: #0088cc; }
+.card-title--para {
+  font-size: 1.5rem; }
+
+.img-thumbnail {
+  height: 75%; }
+
+/*# sourceMappingURL=style.css.map */

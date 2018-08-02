@@ -1,0 +1,38 @@
+
+
+.header {
+    background-color: $color-grey-main;
+
+    &__text-container {
+        overflow: hidden;
+    }
+
+    &__text--main {
+        font-size: 2rem;
+    }
+
+    &__text--sub {
+        font-size: 1.3rem;
+    }
+
+
+}
+
+.card {
+
+    &__btn--primary {
+        background-color: $color-primary;
+    }
+
+    &__btn--secondary {
+        background-color: $color-secondary;
+    }
+
+    &-title--para {
+        font-size: 1.5rem;
+    }
+}
+
+.img-thumbnail {
+    height: 75%;
+}
